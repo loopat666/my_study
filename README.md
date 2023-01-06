@@ -11,3 +11,6 @@ My Study ABAP
 
 
 dev branch 로 적용하기.
+
+
+새로운 연결 테스트 
